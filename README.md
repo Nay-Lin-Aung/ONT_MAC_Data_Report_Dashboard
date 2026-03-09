@@ -72,9 +72,7 @@ Nay
 
 
 
-Sample Report Output
-
-================
+\## Sample Report Output
 
 
 

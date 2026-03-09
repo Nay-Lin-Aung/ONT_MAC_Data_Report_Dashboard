@@ -72,9 +72,9 @@ Nay
 
 
 
-\## Sample Report Output
+Sample Report Output
 
+=================
 
-
-!\[Report Output](screenshots/ONT\_MAC\_Data\_Report\_Dashboard.png)
+!\[Report Output](https://raw.githubusercontent.com/Nay-Lin-Aung/ONT\_MAC\_Data\_Report\_Dashboard/main/screenshots/ONT\_MAC\_Data\_Report\_Dashboard.png)
 

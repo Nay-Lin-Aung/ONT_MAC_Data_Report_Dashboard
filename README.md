@@ -1,6 +1,6 @@
-ONT Optic and MAC Address Data Report Dashboard
+\### ONT Optic and MAC Address Data Report Dashboard
 
-========================================
+
 
 This project provides a web dashboard to display and download generated ONT Optical and MAC Address reports.
 
@@ -12,9 +12,9 @@ The dashboard is built using Django and reads generated report files from the re
 
 
 
-Features
+\### Features
 
-=======
+
 
 \- View generated ONT Data reports
 
@@ -28,9 +28,9 @@ Features
 
 
 
-Technologies
+\### Technologies
 
-==========
+
 
 -Django
 
@@ -44,9 +44,9 @@ Technologies
 
 
 
-Run Development Server
+\### Run Development Server
 
-====================
+
 
 Start the Django development server:
 
@@ -62,9 +62,9 @@ http://127.0.0.1:8000
 
 
 
-Author
+\### Author
 
-=====
+
 
 Nay
 
@@ -72,9 +72,9 @@ Nay
 
 
 
-Sample Report Output
+\### Sample Report Output
 
-=================
 
-!\[Report Output](https://raw.githubusercontent.com/Nay-Lin-Aung/ONT\_MAC\_Data\_Report\_Dashboard/main/screenshots/ONT\_MAC\_Data\_Report\_Dashboard.png)
+
+!\[Report Output](screenshots/ONT\_MAC\_Data\_Report\_Dashboard.png)
 

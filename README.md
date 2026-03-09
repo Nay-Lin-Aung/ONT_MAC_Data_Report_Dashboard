@@ -76,7 +76,7 @@ Sample Report Output
 
 ================
 
+
+
 !\[Report Output](screenshots/ONT\_MAC\_Data\_Report\_Dashboard.png)
-
-
 
